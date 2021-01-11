@@ -2,7 +2,7 @@
 </h2>
 
 <h4 align="center">
-    <img alt="regolio-Digital" title="Relogio Digital" src="https://raw.githubusercontent.com/RodrigoRedivo/relogio-Digital/master/images/relogio-digital.gif" width="350px" />
+    <img alt="relogio-Digital" title="Relogio Digital" src="https://raw.githubusercontent.com/RodrigoRedivo/relogio-Digital/master/images/relogio-digital.gif" width="350px" />
 </h4>
 
 <h3 align="center"> 
